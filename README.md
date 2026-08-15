@@ -3,14 +3,14 @@
 
 Email Me 👉 ✉️ **arnabg873@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+* 🔭 **I’m currently working on:** EventTron – an AI-Integrated Event Management Ecosystem built with React, FastAPI, Supabase, and AI-powered features.
+* 🌱 **I’m currently learning:** Python, Data Analysis, SQL, Power BI, Machine Learning, DSA, and Full-Stack Development.
+* 👯 **I’m looking to collaborate on:** AI/ML, Data Analytics, Full-Stack, and open-source projects.
+* 🤔 **I’m looking for help with:** Building scalable AI-powered applications and improving my problem-solving skills with DSA.
+* 💬 **Ask me about:** Python, Data Analysis, SQL, Power BI, Machine Learning, React, FastAPI, and project development.
+* 📫 **How to reach me:** arnabg873@gmail.com
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I love turning ideas into projects—and debugging them until they actually work. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scg_arnab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArnabGhosh2005) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@arnabghosh216) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnabg873@gmail.com) 
